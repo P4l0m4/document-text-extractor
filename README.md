@@ -12,6 +12,11 @@ Supported formats:
 Supported documents can contain a mix of these different formats and up to 100 pages.
 It can handle up to 3 simultaneous requests per second.
 
+Languages:
+
+- English
+- French
+
 ## Disclaimer
 
 This project was made with KIRO AI. Needless to say, it contains many mistakes and useless code. I am not a backend developer, therefore, this will not be fixed as long as it works.
